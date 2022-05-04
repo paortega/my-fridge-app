@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "my-fridge-app",
+			"path": "../../my-fridge-app"
+		}
+	],
+	"settings": {}
+}
